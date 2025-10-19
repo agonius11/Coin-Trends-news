@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://localhost:3000/privacy/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/terms/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/best-crypto-presales-2025/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/articles/best-crypto-presales-2025/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/articles/beste-krypto-presales-2025/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/articles/crypto-airdrop-guide-2025/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/articles/crypto-avoid-scams-2025/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/articles/crypto-bridges-work-cross-chain-guide-2025/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/articles/crypto-investing-guide-2025/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/articles/crypto-lending-guide-2025/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/articles/crypto-narratives-2025/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/articles/crypto-security-guide-2025/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/articles/what-is-solana-2025/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/beste-krypto-presales-2025/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/articles/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://localhost:3000/</loc><lastmod>2025-09-09T11:10:57.955Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/terms/</loc><lastmod>2025-10-19T21:52:07.905Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/beste-krypto-presales-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/privacy/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/articles/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/articles/best-crypto-presales-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/articles/best-crypto-presales-blokdag-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/articles/beste-krypto-presales-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/articles/crypto-airdrop-guide-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/articles/crypto-avoid-scams-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/articles/crypto-bridges-work-cross-chain-guide-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/articles/crypto-investing-guide-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/articles/crypto-lending-guide-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/articles/crypto-narratives-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/articles/crypto-security-guide-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/articles/what-is-solana-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/best-crypto-presales-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/best-crypto-presales-blokdag-2025/</loc><lastmod>2025-10-19T21:52:07.906Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>

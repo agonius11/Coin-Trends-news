@@ -47,6 +47,24 @@ const specialLandingPageArticleDE: Article = {
   isSpecialPage: true, // This flags it as a special page
 };
 
+// BlockDAG special landing page article
+const specialLandingPageArticleBlockDAG: Article = {
+  id: "special-presales-blockdag-2025",
+  title:
+    "Blockdag News: Investors Rotate Into DeepSnitch AI For A Rare 100x Opportunity as Coinbase Launches New Tools",
+  slug: "best-crypto-presales-blokdag-2025",
+  excerpt:
+    "Latest BlockDAG news may indicate a delayed launch, leading traders to flock to DeepSnitch AI, which raised over $429K and increased by over 26% in record time.",
+  content: "", // Not used for this special page
+  author: "Antoine Marin",
+  publishedAt: "2025-10-17",
+  updatedAt: "2025-10-17",
+  category: "Presales",
+  image: "/images/articles/crypto-presales.jpg",
+  featured: true,
+  isSpecialPage: true, // This flags it as a special page
+};
+
 export async function getArticleBySlug(slug: string): Promise<Article | null> {
   // Check if it's the special article first
   if (slug === "best-crypto-presales-2025") {
@@ -56,6 +74,11 @@ export async function getArticleBySlug(slug: string): Promise<Article | null> {
   // Check if it's the German special article
   if (slug === "beste-krypto-presales-2025") {
     return specialLandingPageArticleDE;
+  }
+
+  // Check if it's the BlockDAG special article
+  if (slug === "best-crypto-presales-blokdag-2025") {
+    return specialLandingPageArticleBlockDAG;
   }
 
   try {
@@ -98,11 +121,16 @@ export async function getAllArticleSlugs(): Promise<string[]> {
     return [
       "best-crypto-presales-2025",
       "beste-krypto-presales-2025",
+      "best-crypto-presales-blokdag-2025",
       ...markdownSlugs,
     ];
   } catch (error) {
     console.error("Error reading articles directory:", error);
-    return ["best-crypto-presales-2025", "beste-krypto-presales-2025"]; // Still return special articles even if directory read fails
+    return [
+      "best-crypto-presales-2025",
+      "beste-krypto-presales-2025",
+      "best-crypto-presales-blokdag-2025",
+    ]; // Still return special articles even if directory read fails
   }
 }
 
